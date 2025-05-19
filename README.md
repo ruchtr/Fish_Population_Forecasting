@@ -93,6 +93,9 @@ Overall, the comparative evaluation revealed that hybrid and deep learning model
 substantial promise for climate-driven fish population forecasting. The ensemble approach, 
 in particular, is well-suited for applications in fisheries resource planning and management.
 
+![fish_landing_predictions_separate](https://github.com/user-attachments/assets/d28fc543-bb8f-4314-8040-c49fddf1a856)
+
+
 
 
 
