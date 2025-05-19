@@ -1,17 +1,17 @@
 # 🐟 Comparative Machine Learning Models for Fish Population Forecasting
 This repository presents a comprehensive analysis and implementation of various machine learning and time series models to forecast fish population trends in Maharashtra, India, based on climate change indicators. The goal of this project is to evaluate and compare multiple models to identify the most effective forecasting approach for sustainable fisheries management.
-**#📌 Table of Contents**
+# 📌 Table of Contents
 About the Project
 
-Objectives
+#Objectives
 
-Dataset Description
+#Dataset Description
 
-Methodology
+#Methodology
 
-Models Used
+#Models Used
 
-Evaluation Metrics
+#Evaluation Metrics
 
 Results
 
@@ -27,7 +27,7 @@ Future Work
 
 References
 
-**📖 About the Project**
+# 📖 About the Project
 Fish population dynamics are crucial for maintaining ecological balance and supporting the livelihoods of millions. However, climate change poses significant threats to aquatic ecosystems. This project aims to predict total fish landings using historical environmental and fisheries data, leveraging machine learning and time series forecasting techniques.
 
 **🎯 Objectives**
